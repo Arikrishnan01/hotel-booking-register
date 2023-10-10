@@ -1,1 +1,1 @@
-export const GLOBAL_URL = "https://hotel-booking-register.onrender.com/"
+export const GLOBAL_URL = "https://hotel-booking-register.onrender.com"
