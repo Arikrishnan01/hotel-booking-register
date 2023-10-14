@@ -18,7 +18,7 @@ export default function CheckIn() {
 
   useEffect(() => {
     getCheckIn()
-  });
+  },[]);
 
   return (
     <div className='checkIn-container'>

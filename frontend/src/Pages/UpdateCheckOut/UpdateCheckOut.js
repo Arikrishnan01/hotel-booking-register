@@ -32,7 +32,7 @@ export default function UpdateCheckIn() {
 
   useEffect(() => {
     getCheckOutById()
-  });
+  },[]);
 
 
   return (
